@@ -6,6 +6,7 @@ Randy Groncki	2021-03-16
 
 
 Walkthrough Documentation: https://peopletoolstechtips.com/create-an-xml-file-with-peopletools-using-the-rowset-method/
+
 YouTube demo: https://youtu.be/HpyjmmaLpPQ
 
 Create XML Files with PeopleCode and the Rowset Method
